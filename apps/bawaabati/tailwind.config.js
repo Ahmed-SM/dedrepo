@@ -1,0 +1,1 @@
+export * from "@ded-monorepo/ui/tailwind.config.js"
