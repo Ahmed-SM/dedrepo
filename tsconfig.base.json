@@ -15,7 +15,7 @@
     "noUnusedLocals": true,
     "skipLibCheck": true,
     "sourceMap": true,
-    "jsx": "react-jsx",
+    "jsx": "react",
     "target": "ESNext"
   },
   "exclude": ["node_modules"]
